@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nanobowers
-- 👀 I’m interested in Ruby, Crystal and Ruby-like languages, Code translation, and a lot of other stuff.
-- 🌱 I’m currently learning enough C++ to help with the [Natalie project](https://natalie-lang.org/)
+- 👀 I’m interested in Python, Ruby, Crystal and Ruby-like languages, Code translation, and a lot of other stuff.
 - 📫 How to reach me ... same user name at gmail
 
 <!---
